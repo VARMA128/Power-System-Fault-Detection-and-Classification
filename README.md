@@ -42,10 +42,15 @@ matplotlib, seaborn – Visualization
 Watson Machine Learning SDK – Deployment
 
 📂 Project Structure
+
 Power-System-Fault-Detection-IBM/
+
 │── fault-data.csv/                  # Dataset files (uploaded to COS from Kaggle)
+
 │── notebooks/             # IBM Cloud notebooks for data analysis
+
 │── results/               # Classification reports and plots
+
 │── README.md               # Documentation
 
       # Dependencies for local run
